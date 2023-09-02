@@ -1,0 +1,3 @@
+# heart-patients
+
+A patient who has a similar health history or symptoms to a previous patient could benefit from undergoing the same treatment. This project investigates whether doctors might be able to group together patients to target treatments using common unsupervised learning techniques. In this project we use k-means and hierarchical clustering algorithms to determine relationships among patient characteristics and medical information.
